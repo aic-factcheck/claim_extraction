@@ -1,5 +1,17 @@
-numpy
-transformers
-bert_score
+accelerate
+alignscore @ git+https://github.com/yuh-zha/AlignScore
+angle-emb
+bert-score
+bitsandbytes
+colorama==0.4.6
+coloredlogs==15.0.1
+comm==0.1.2
+dash
 datasets
-evaluate
+espnet==202304
+factsumm
+pandas
+llama @ git+https://github.com/facebookresearch/llama@57b0eb62de0636e75af471e49e2f1862d908d9d8
+llama-recipes==0.0.
+openai==1.11.1
+transformers 
